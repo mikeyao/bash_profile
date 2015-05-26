@@ -1,0 +1,17 @@
+
+
+# Meta alias's
+alias subl="open -a Sublime\ Text"
+alias prof="subl ~/.bash_profile"
+alias reprof=". ~/.bash_profile"
+
+#Git
+alias gprum="git pull --rebase upstream master"
+alias gpum="git pull upstream master"
+alias gpom="git push origin master"
+alias gpo="git push origin"
+alias gac="git add -A;git commit"
+alias gcb="git checkout -b"
+alias gcm="git checkout master"
+alias gb="git branch"
+alias gst="git status"
